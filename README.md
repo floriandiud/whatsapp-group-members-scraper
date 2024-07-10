@@ -4,6 +4,8 @@ Script to scrape WhatsApp group members and export them into a CSV file. This Wh
 
 ![WhatsApp Group Members Scraper](statics/screen_script.png)
 
+ Read our step-by-step [guide to scrape WhatsApp group members](https://www.datablist.com/how-to/scrape-whatsapp-group-members-free)
+
 ## How to run the WhatsApp Users Extractor script
 
  1. Open the [WhatsApp Web Client](https://web.whatsapp.com) on Chrome
@@ -106,9 +108,10 @@ yarn install
 yarn build
 ```
 
-## Other Scrapers
+## Other Scrapers & Guides
 
 - [Scrape Instagram followers, following users, post authors](https://github.com/floriandiud/instagram-users-scraper). And the tutorial to use the [Instagram Scraper](https://www.datablist.com/how-to/scrape-instagram-users-free-followers-followings-authors).
 - [Script to scrape Facebook group members and export them into a CSV file.](https://github.com/floriandiud/facebook-group-members-scraper). And the tutorial to [Scrape Facebook groups members and enrich them with LinkedIn profile and Email addresses.](https://www.datablist.com/how-to/scrape-facebook-group-members-linkedin)
+- [Extract WhatsApp Group members](https://www.datablist.com/how-to/scrape-whatsapp-group-members-free)
 
 
