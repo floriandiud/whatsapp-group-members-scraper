@@ -17,6 +17,8 @@ Script to scrape WhatsApp group members and export them into a CSV file. This Wh
  1. Once the counter stops increasing, click on the "Download X users" button to download the generated CSV file
  1. The profiles are kept in a cache until you click the "Reset" button. Thanks to this cache, the extracted profiles are still available if your browser "crashes".
 
+### Alternatively, you can directly install `whatsappscrapper.user.js` in a userscript manager (such as Tampermonkey, Violentmonkey, or Greasemonkey) to have it load automatically. Just remember to disable the script when you’re finished.
+> [whatsappscrapper.user.js](whatsappscrapper.user.js)
 
 ## Scrapped Fields
 
